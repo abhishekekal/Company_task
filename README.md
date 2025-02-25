@@ -24,11 +24,9 @@ img/         # Images
 
 ## images
 
-![Screenshot (18)](https://github.com/user-attachments/assets/b315357a-9d28-4ce0-8f91-da13be0f156e)
+![Screenshot (18)](https://github.com/user-attachments/assets/9635b825-5af9-42ad-bc97-2fcf26b68d23)
 
-
-![Screenshot (19)](https://github.com/user-attachments/assets/9762bbca-db3a-40c0-ac63-c624b370711e)
-
+![Screenshot (19)](https://github.com/user-attachments/assets/1e7c6ff9-b741-4b39-be1f-a4141e5702c2)
 
 
 
